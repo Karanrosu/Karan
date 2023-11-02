@@ -13,7 +13,7 @@ function callBackFunction(req,res){
     else if (req.method == 'PUT'){
         a[0] = 2;
         
-        
+     //iueiotuiow   
     }else if (req.method == 'GET'){
         
     }
