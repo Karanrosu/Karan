@@ -4,6 +4,7 @@ const server=http.createServer(callBackFunction);
 
 
 let a=[];
+
 function callBackFunction(req,res){
     if(req.method == 'post'){
         a.push(1);
